@@ -2,7 +2,7 @@
 
 # Set Up
 ````sh
-bower install fontawesome-iconset
+bower install diego-d5000/fontawesome-iconset#~4.3.0
 ````
 # Use
 
